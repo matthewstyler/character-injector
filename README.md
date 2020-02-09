@@ -1,6 +1,6 @@
 # character-injector
 
-Supports interactive source string prompt (--prompt)
+Supports piped source string or interactive source string (--prompt) 
 ```text
 Usage: char_inject.rb [options]
     -h, --help                       Show this help message
